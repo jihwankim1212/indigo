@@ -1,0 +1,17 @@
+20200904130530#{"timestamp":1599192330018,"success":0,"failure":0,"queueing":0}
+20200904130600#{"timestamp":1599192360029,"success":0,"failure":0,"queueing":0}
+20200904130630#{"timestamp":1599192390009,"success":0,"failure":0,"queueing":0}
+20200904130700#{"timestamp":1599192420004,"success":0,"failure":0,"queueing":0}
+20200904130730#{"timestamp":1599192450003,"success":0,"failure":0,"queueing":0}
+20200904130800#{"timestamp":1599192480002,"success":0,"failure":0,"queueing":0}
+20200904140010#{"timestamp":1599195610007,"success":246,"failure":0,"queueing":0}
+20200904150010#{"timestamp":1599199210005,"success":606,"failure":0,"queueing":0}
+20200904160010#{"timestamp":1599202810004,"success":966,"failure":0,"queueing":0}
+20200904170010#{"timestamp":1599206410015,"success":1326,"failure":0,"queueing":0}
+20200904180010#{"timestamp":1599210010013,"success":1686,"failure":0,"queueing":0}
+20200904190010#{"timestamp":1599213610012,"success":2045,"failure":0,"queueing":0}
+20200904195959#{"timestamp":1599217199999,"success":2403,"failure":0,"queueing":0}
+20200904210010#{"timestamp":1599220810030,"success":2764,"failure":0,"queueing":0}
+20200904215959#{"timestamp":1599224399999,"success":3123,"failure":0,"queueing":0}
+20200904225959#{"timestamp":1599227999999,"success":3482,"failure":0,"queueing":1}
+20200904235959#{"timestamp":1599231599999,"success":3842,"failure":0,"queueing":0}

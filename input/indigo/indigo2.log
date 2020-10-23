@@ -1,0 +1,16 @@
+[20.10.15 08:41:20] [DEBUG]  [QuartzScheduler_Worker-5 com.indigo.esb.dashboard.monitor.repository.IndigoMonitorFileStore:34 ] - cpuResourceMonitor monitor data writing... file path:C:\demo\02_demoProduct\03_MGT\esb\.\filestore\cpuResourceMonitor\cpuResourceMonitor.20201015
+[20.10.15 08:41:20] [DEBUG]  [QuartzScheduler_Worker-8 com.indigo.esb.dashboard.monitor.repository.IndigoMonitorFileStore:34 ] - jvmResourceMonitor monitor data writing... file path:C:\demo\02_demoProduct\03_MGT\esb\.\filestore\jvmResourceMonitor\jvmResourceMonitor.20201015
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-3 com.indigo.esb.dashboard.IndigoMonitor:43 ] - [queueListMonitor] component monitor data update start.
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-8 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [jvmResourceMonitor] component monitor data update end. 47ms
+[20.10.15 08:41:20] [DEBUG]  [QuartzScheduler_Worker-3 com.indigo.esb.dashboard.monitor.repository.IndigoMonitorFileStore:34 ] - queueListMonitor monitor data writing... file path:C:\demo\02_demoProduct\03_MGT\esb\.\filestore\queueListMonitor\queueListMonitor.20201015
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-5 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [cpuResourceMonitor] component monitor data update end. 47ms
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-11 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [brokerMonitor] component monitor data update end. 47ms
+[20.10.15 08:41:20] [DEBUG]  [QuartzScheduler_Worker-12 com.indigo.esb.dashboard.monitor.repository.IndigoMonitorFileStore:34 ] - diskResourceMonitor monitor data writing... file path:C:\demo\02_demoProduct\03_MGT\esb\.\filestore\diskResourceMonitor\diskResourceMonitor.20201015
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-1 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [saStatusMonitor] component monitor data update end. 0ms
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-10 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [esbServiceStatusMonitor] component monitor data update end. 0ms
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-4 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [threadResourceMonitor] component monitor data update end. 0ms
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-12 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [diskResourceMonitor] component monitor data update end. 47ms
+[20.10.15 08:41:20] [INFO ]  [QuartzScheduler_Worker-3 com.indigo.esb.dashboard.IndigoMonitor:65 ] - [queueListMonitor] component monitor data update end. 0ms
+[20.10.15 08:41:22] [DEBUG]  [MODELER AUTO DEPLOY TIMER com.indigo.esb.modeler.deployer.ModelerAutoDeployer$1:78 ] - checkModelerfile [path:./indigoComponent]
+[20.10.15 08:41:22] [DEBUG]  [MODELER AUTO DEPLOY TIMER com.indigo.esb.modeler.deployer.ModelerAutoDeployer:201 ] - ModelerTraceService.emo service status:1
+[20.10.15 08:41:24] [INFO ]  [Timer-3 com.indigo.esb.dashboard.notify.IndigoNotifyMonitor:57 ] - Indigo schedule notify monitor.
